@@ -13,6 +13,7 @@ describe("Header", () => {
     });
 })
 
+// Fails if there are two headings inside the component. See next test
 // it('should render same text passed into title prop', () => {
 //     render(
 //         <Header 
